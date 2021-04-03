@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayankSoni07
 - 👀 I’m interested in Coding and Learning new skills
-- 🌱 I have expertise in React JS, also having experience of React-native, currently learning Flutter
+- 🌱 I have expertise in React JS and Javascript, also having experience of React-native, currently learning Flutter
 - 📫 How to reach me : call me at -> 7742464697 or mail me -> soni.mayank.3194@gmail.com
 
 <!---
